@@ -1,1 +1,1 @@
-slackversion 4.32.123
+slackversion 4.32.1234
