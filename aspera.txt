@@ -1,2 +1,2 @@
-url=https://d3gcli72yxqn2z.cloudfront.net/downloads/connect/latest/bin/ibm-aspera-connect_4.2.12.780_macOS_x86_64.pkg
-version=4.2.12
+url=https://delivery04-mul.dhe.ibm.com/sar/CMA/OSA/0cz9h/0/ibm-aspera-connect_4.2.14.855-HEAD_macOS_x86_64.pkg
+version=4.2.14
